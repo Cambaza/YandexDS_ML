@@ -1,0 +1,4 @@
+Log file created at: 2022/03/31 22:08:52
+Running on machine: dm1.local
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0331 22:08:52.655010 54322688 c_interface.cc:59] InternalError :  theta_matrix->topic_indices_size() == 0

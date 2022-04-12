@@ -1,0 +1,14 @@
+Log file created at: 2022/03/31 21:30:16
+Running on machine: dm1.local
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0331 21:30:16.069483 170569728 helpers.cc:221] File already exists: school_batches/aaaaaa.batch
+W0331 21:30:16.071902 172716032 helpers.cc:221] File already exists: school_batches/aaaaae.batch
+W0331 21:30:16.074144 171106304 helpers.cc:221] File already exists: school_batches/aaaaab.batch
+W0331 21:30:16.076475 171642880 helpers.cc:221] File already exists: school_batches/aaaaac.batch
+W0331 21:30:16.078644 172179456 helpers.cc:221] File already exists: school_batches/aaaaad.batch
+W0331 22:03:21.772991 54322688 check_messages.h:1082] ThetaMatrix.topic_name_size is empty
+W0331 22:03:21.775378 54322688 check_messages.h:1082] ThetaMatrix.topic_name_size is empty
+W0331 22:03:29.336900 54322688 check_messages.h:1082] Inconsistent fields size in ThetaMatrix: 476 vs 0 vs 476 vs 0;
+W0331 22:08:19.139000 54322688 check_messages.h:1082] ThetaMatrix.topic_name_size is empty
+W0331 22:08:19.139971 54322688 check_messages.h:1082] ThetaMatrix.topic_name_size is empty
+E0331 22:08:52.655010 54322688 c_interface.cc:59] InternalError :  theta_matrix->topic_indices_size() == 0

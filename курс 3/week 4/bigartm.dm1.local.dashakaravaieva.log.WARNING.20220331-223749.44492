@@ -1,0 +1,29 @@
+Log file created at: 2022/03/31 22:37:49
+Running on machine: dm1.local
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0331 22:37:49.278146 158744576 helpers.cc:221] File already exists: lectures_batches/aaaaaa.batch
+W0331 22:37:49.291415 158208000 helpers.cc:221] File already exists: lectures_batches/aaaaab.batch
+W0331 22:37:49.293334 160890880 helpers.cc:221] File already exists: lectures_batches/aaaaaf.batch
+W0331 22:37:49.296344 159817728 helpers.cc:221] File already exists: lectures_batches/aaaaad.batch
+W0331 22:37:49.298954 159281152 helpers.cc:221] File already exists: lectures_batches/aaaaac.batch
+W0331 22:37:49.300467 160354304 helpers.cc:221] File already exists: lectures_batches/aaaaae.batch
+W0331 22:37:49.328310 162500608 helpers.cc:221] File already exists: lectures_batches/aaaaai.batch
+W0331 22:37:49.349334 161964032 helpers.cc:221] File already exists: lectures_batches/aaaaah.batch
+W0331 22:37:49.351342 161427456 helpers.cc:221] File already exists: lectures_batches/aaaaag.batch
+W0331 22:37:49.356067 163037184 helpers.cc:221] File already exists: lectures_batches/aaaaaj.batch
+W0331 22:37:49.360702 161964032 helpers.cc:221] File already exists: lectures_batches/aaaaar.batch
+W0331 22:37:49.369583 162500608 helpers.cc:221] File already exists: lectures_batches/aaaaaq.batch
+W0331 22:37:49.427845 159281152 helpers.cc:221] File already exists: lectures_batches/aaaaao.batch
+W0331 22:37:49.432219 158744576 helpers.cc:221] File already exists: lectures_batches/aaaaak.batch
+W0331 22:37:49.435423 160354304 helpers.cc:221] File already exists: lectures_batches/aaaaap.batch
+W0331 22:37:49.440340 158208000 helpers.cc:221] File already exists: lectures_batches/aaaaal.batch
+W0331 22:37:49.443915 159817728 helpers.cc:221] File already exists: lectures_batches/aaaaan.batch
+W0331 22:37:49.456637 160890880 helpers.cc:221] File already exists: lectures_batches/aaaaam.batch
+W0331 22:59:51.913031 51844608 check_messages.h:1082] ThetaMatrix.topic_name_size is empty
+W0331 22:59:51.913190 51844608 check_messages.h:1082] ThetaMatrix.topic_name_size is empty
+E0331 23:01:46.123543 51844608 c_interface.cc:59] InternalError :  theta_matrix->topic_indices_size() == 0
+W0331 23:02:19.330988 51844608 check_messages.h:1082] ThetaMatrix.topic_name_size is empty
+W0331 23:02:19.332736 51844608 check_messages.h:1082] ThetaMatrix.topic_name_size is empty
+W0331 23:02:46.076009 51844608 check_messages.h:1082] ThetaMatrix.topic_name_size is empty
+W0331 23:02:46.076133 51844608 check_messages.h:1082] ThetaMatrix.topic_name_size is empty
+W0331 23:05:09.831195 51844608 check_messages.h:1082] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;

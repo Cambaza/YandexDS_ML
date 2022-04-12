@@ -1,0 +1,24 @@
+Log file created at: 2022/04/01 19:08:27
+Running on machine: dm1.local
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0401 19:08:27.539682 218812416 helpers.cc:221] File already exists: lectures_batches/aaaaaa.batch
+W0401 19:08:27.544493 219348992 helpers.cc:221] File already exists: lectures_batches/aaaaab.batch
+W0401 19:08:27.558689 220422144 helpers.cc:221] File already exists: lectures_batches/aaaaac.batch
+W0401 19:08:27.560514 219885568 helpers.cc:221] File already exists: lectures_batches/aaaaad.batch
+W0401 19:08:27.573305 220958720 helpers.cc:221] File already exists: lectures_batches/aaaaae.batch
+W0401 19:08:27.575027 221495296 helpers.cc:221] File already exists: lectures_batches/aaaaaf.batch
+W0401 19:08:27.598744 223105024 helpers.cc:221] File already exists: lectures_batches/aaaaai.batch
+W0401 19:08:27.601147 222031872 helpers.cc:221] File already exists: lectures_batches/aaaaah.batch
+W0401 19:08:27.603355 222568448 helpers.cc:221] File already exists: lectures_batches/aaaaag.batch
+W0401 19:08:27.625171 223641600 helpers.cc:221] File already exists: lectures_batches/aaaaaj.batch
+W0401 19:08:27.625559 222031872 helpers.cc:221] File already exists: lectures_batches/aaaaar.batch
+W0401 19:08:27.637389 223105024 helpers.cc:221] File already exists: lectures_batches/aaaaaq.batch
+W0401 19:08:27.697490 218812416 helpers.cc:221] File already exists: lectures_batches/aaaaak.batch
+W0401 19:08:27.706470 219348992 helpers.cc:221] File already exists: lectures_batches/aaaaal.batch
+W0401 19:08:27.710017 220958720 helpers.cc:221] File already exists: lectures_batches/aaaaao.batch
+W0401 19:08:27.713224 221495296 helpers.cc:221] File already exists: lectures_batches/aaaaap.batch
+W0401 19:08:27.717130 219885568 helpers.cc:221] File already exists: lectures_batches/aaaaan.batch
+W0401 19:08:27.729961 220422144 helpers.cc:221] File already exists: lectures_batches/aaaaam.batch
+W0401 19:08:51.281400 82515456 check_messages.h:1082] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0401 19:23:39.075814 82515456 check_messages.h:1082] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0401 19:38:29.345021 82515456 check_messages.h:1082] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;

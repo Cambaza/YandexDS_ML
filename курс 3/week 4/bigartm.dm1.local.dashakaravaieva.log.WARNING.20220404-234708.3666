@@ -1,0 +1,22 @@
+Log file created at: 2022/04/04 23:47:08
+Running on machine: dm1.local
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0404 23:47:08.569123 164663296 helpers.cc:221] File already exists: lectures_batches/aaaaaa.batch
+W0404 23:47:08.583635 165199872 helpers.cc:221] File already exists: lectures_batches/aaaaab.batch
+W0404 23:47:08.585327 165736448 helpers.cc:221] File already exists: lectures_batches/aaaaac.batch
+W0404 23:47:08.586813 166273024 helpers.cc:221] File already exists: lectures_batches/aaaaad.batch
+W0404 23:47:08.588518 166809600 helpers.cc:221] File already exists: lectures_batches/aaaaae.batch
+W0404 23:47:08.590309 167346176 helpers.cc:221] File already exists: lectures_batches/aaaaaf.batch
+W0404 23:47:08.633162 168955904 helpers.cc:221] File already exists: lectures_batches/aaaaai.batch
+W0404 23:47:08.643113 168419328 helpers.cc:221] File already exists: lectures_batches/aaaaah.batch
+W0404 23:47:08.645114 167882752 helpers.cc:221] File already exists: lectures_batches/aaaaag.batch
+W0404 23:47:08.647718 169492480 helpers.cc:221] File already exists: lectures_batches/aaaaaj.batch
+W0404 23:47:08.652359 168419328 helpers.cc:221] File already exists: lectures_batches/aaaaar.batch
+W0404 23:47:08.665977 168955904 helpers.cc:221] File already exists: lectures_batches/aaaaaq.batch
+W0404 23:47:08.717463 164663296 helpers.cc:221] File already exists: lectures_batches/aaaaak.batch
+W0404 23:47:08.723273 166809600 helpers.cc:221] File already exists: lectures_batches/aaaaao.batch
+W0404 23:47:08.728288 165199872 helpers.cc:221] File already exists: lectures_batches/aaaaal.batch
+W0404 23:47:08.731433 167346176 helpers.cc:221] File already exists: lectures_batches/aaaaap.batch
+W0404 23:47:08.736174 166273024 helpers.cc:221] File already exists: lectures_batches/aaaaan.batch
+W0404 23:47:08.748008 165736448 helpers.cc:221] File already exists: lectures_batches/aaaaam.batch
+W0405 00:14:28.086058 55440896 check_messages.h:1082] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
